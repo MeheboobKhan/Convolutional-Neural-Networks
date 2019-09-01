@@ -2,6 +2,8 @@
 
 This is a cat-dog classifier built on a convolutional neural network
 
+Below are the instructions for installing supporting packages
+
 Installing Theano
 pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git
 
