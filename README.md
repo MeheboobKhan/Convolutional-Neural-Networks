@@ -2,8 +2,7 @@
 
 This is a cat-dog classifier built on a convolutional neural network
 
-Images from Traning Set are taken for training 
-Images from Test Set are taken for testing 
+Images from Traning Set are taken for training, Images from Test Set are taken for testing 
 
 Below are the instructions for installing supporting packages
 
